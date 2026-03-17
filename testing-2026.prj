@@ -6,11 +6,12 @@
    <UUID>0d7a2555-ef48-46db-a4f0-736001aaeaaf</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>11.0.1</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>11.0.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Nextsix\git\testing-2026\testing-2026.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
